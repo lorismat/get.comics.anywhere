@@ -8,7 +8,7 @@ Below is a quick demo with a set of useful commands:
 - `get-comics -a` will list all available titles
 - `get-comics -l W` will list all available titles starting with the letter `W`  
 
-<img src="gif/gif-get-comics.gif" width="70%" style="border:5px solid black" />   
+<center><img src="gif/gif-get-comics.gif" width="70%" /></center>   
 
    
 **Compatible with UNIX system only (Linux, macOS)** 
