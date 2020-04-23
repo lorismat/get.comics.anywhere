@@ -17,21 +17,12 @@ Below is a quick demo with a set of useful commands:
 
 ### Download with pip
 
-`pip3 install `  
+`pip3 install get-comics`  
 
-### Download from source code
-
-Feel free to clone this repository.  
-From the root of the repository, run:  
-```
-sudo sh install.sh
-```  
 You will be able to run the CLI app from anywhere in the terminal, with `get-comics`.  
 
 #### To uninstall the app:  
-```
-pip3 uninstall get-comics
-```   
+`pip3 uninstall get-comics`
 
 ## Requirements
 
@@ -57,8 +48,6 @@ To make `selenium` usable, you have to download a specific `geckodriver`.
 
 You can now run the CLI app from anywhere with `get-comics` and specific options!  
 
-# Documentation
+## A guide to set up python CLI app
 
-## Structure of the repository
-
-
+[Here is a sum up guide](https://github.com/git1984/some.guides/blob/master/develop_a_python_CLI_app.md) to set up a python CLI app, and make it accessible by anyone with the python package index (PyPI) using `pip install`
