@@ -1,0 +1,3 @@
+[console_scripts]
+get-comics = get_comics.__main__:main
+

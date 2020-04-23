@@ -1,0 +1,11 @@
+MANIFEST.in
+README.md
+setup.py
+get_comics/__init__.py
+get_comics/__main__.py
+get_comics/library.txt
+get_comics.egg-info/PKG-INFO
+get_comics.egg-info/SOURCES.txt
+get_comics.egg-info/dependency_links.txt
+get_comics.egg-info/entry_points.txt
+get_comics.egg-info/top_level.txt
