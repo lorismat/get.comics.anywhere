@@ -50,4 +50,4 @@ You can now run the CLI app from anywhere with `get-comics` and specific options
 
 ## A guide to set up python CLI app
 
-[Here is a sum up guide](https://github.com/git1984/some.guides/blob/master/develop_a_python_CLI_app.md) to set up a python CLI app, and make it accessible by anyone with the python package index (PyPI) using `pip install`
+[Here is a sum up guide](https://github.com/git1984/some.guides/blob/master/CLI_apps/develop_a_python_CLI_app.md) to set up a python CLI app, and make it accessible by anyone with the python package index (PyPI) using `pip install`
